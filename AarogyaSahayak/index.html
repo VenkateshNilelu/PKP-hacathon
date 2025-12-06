@@ -34,9 +34,11 @@
 <div class="container py-5">
   <h2 class="fw-bold text-primary mb-4">Patient Diagnosis Form</h2>
 
+  <!-- FORM CARD -->
   <div class="card p-4 shadow-sm rounded-4">
     <form id="diagnosisForm">
 
+      <!-- Patient Information -->
       <div class="row mb-3">
         <div class="col-md-6">
           <label class="form-label">Full Name *</label>
@@ -71,16 +73,13 @@
         </div>
       </div>
 
+      <!-- Symptom Input -->
       <label class="form-label fw-semibold">Describe Your Symptoms *</label>
-      <textarea id="symptoms" class="form-control mb-3" rows="3" required></textarea>
+      <textarea id="symptomText" class="form-control mb-3" rows="3" required placeholder="Example: fever, cough, headache..."></textarea>
 
-      <label class="form-label fw-semibold">Common Symptoms</label>
-      <div class="mb-3">
-        <div class="form-check form-check-inline"><input class="form-check-input symptom-checkbox" type="checkbox" value="fever"> Fever</div>
-        <div class="form-check form-check-inline"><input class="form-check-input symptom-checkbox" type="checkbox" value="cough"> Cough</div>
-        <div class="form-check form-check-inline"><input class="form-check-input symptom-checkbox" type="checkbox" value="headache"> Headache</div>
-        <div class="form-check form-check-inline"><input class="form-check-input symptom-checkbox" type="checkbox" value="body pain"> Body Pain</div>
-      </div>
+      <!-- Auto-generated symptoms -->
+      <label class="form-label fw-semibold">Or select common symptoms</label>
+      <div id="symptomChecklist" class="row mb-3"></div>
 
       <button class="btn btn-primary" type="submit">Generate Diagnosis</button>
       <button class="btn btn-secondary ms-2" type="reset">Clear</button>
@@ -88,14 +87,41 @@
     </form>
   </div>
 
+  <!-- RESULT BOX -->
   <div id="resultBox" class="card p-4 shadow-sm rounded-4 mt-4 d-none">
     <h4 class="text-primary fw-bold">Diagnosis Result</h4>
-    <p id="resultText"></p>
+
+    <p><strong>Disease:</strong> <span id="finalDisease" class="text-primary fw-bold"></span></p>
+
+    <p>
+      <strong>Severity:</strong>
+      <span id="severityBadge" class="badge px-3 py-2 text-white"></span>
+    </p>
+
+    <p>
+      <strong>Confidence Score:</strong>
+      <span id="confidenceValue"></span>
+    </p>
+
+    <h5 class="mt-3">Summary</h5>
+    <p id="summaryText"></p>
+
+    <h5>Description</h5>
+    <p id="fullDescription"></p>
+
+    <h5>Precautions</h5>
+    <ul id="precautionsList"></ul>
+  </div>
+
+  <!-- Emergency Alert -->
+  <div id="emergencyAlert" class="alert alert-danger mt-3 d-none fw-bold">
+      ⚠ Immediate medical attention required!
   </div>
 
 </div>
 
-<script src="js/script.js"></script>
+<!-- JS -->
+<script type="module" src="js/app.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 
 </body>

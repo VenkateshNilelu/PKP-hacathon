@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -7,20 +8,21 @@
 
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
   <link rel="stylesheet" href="css/styles.css">
-
 </head>
+
 <body>
 
 <!-- NAVBAR -->
 <nav class="navbar navbar-expand-lg bg-white shadow-sm">
   <div class="container">
     <a class="navbar-brand fw-bold text-primary" href="index.html">🩺 Aarogya Sahayak</a>
+
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navBarMenu">
       <span class="navbar-toggler-icon"></span>
     </button>
 
     <div class="collapse navbar-collapse" id="navBarMenu">
-      <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+      <ul class="navbar-nav ms-auto">
         <li class="nav-item"><a class="nav-link" href="index.html">Diagnosis</a></li>
         <li class="nav-item"><a class="nav-link" href="costs.html">Diagnostic Costs</a></li>
         <li class="nav-item"><a class="nav-link" href="centers.html">Health Centers</a></li>
@@ -29,26 +31,57 @@
         <li class="nav-item"><a class="nav-link active" href="about.html">About</a></li>
       </ul>
     </div>
+
   </div>
 </nav>
 
+<!-- MAIN CONTENT -->
 <div class="container py-5">
 
-  <h2 class="fw-bold text-primary mb-3">About Aarogya Sahayak</h2>
+  <div class="card shadow-sm p-4 rounded-4 mb-4">
+    <h2 class="fw-bold text-primary">About Aarogya Sahayak</h2>
+    <p class="text-muted mt-2">
+      <strong>Aarogya Sahayak</strong> is an AI-powered rural diagnostic assistant designed to provide
+      affordable, accessible, and quick medical guidance for underserved communities.
+      It bridges the gap between rural populations and essential diagnostic resources.
+    </p>
+  </div>
 
-  <p>
-    Aarogya Sahayak – Affordable Rural Diagnostic Assistant aims to make healthcare more accessible
-    for rural communities by providing early diagnostics, cost awareness, and essential medical guidance.
-  </p>
+  <div class="card shadow-sm p-4 rounded-4 mb-4">
+    <h4 class="fw-bold text-success">✨ Key Features</h4>
+    <ul class="mt-3">
+      <li>AI-powered hybrid diagnosis (Machine Learning + Rule Engine)</li>
+      <li>Free-text symptom analysis</li>
+      <li>Severity score with emergency alerts</li>
+      <li>Precautions and basic medical guidance</li>
+      <li>Nearest health center locator</li>
+      <li>Affordable diagnostic test pricing</li>
+      <li>Offline-ready browser system–no backend required</li>
+      <li>History tracking for previous diagnoses</li>
+    </ul>
+  </div>
 
-  <h4 class="fw-bold mt-4">Problem We Solve</h4>
-  <p>
-    Many rural areas lack affordable diagnostic tools, proper information, and quick access to
-    medical facilities. Our platform brings basic diagnostics closer to people using simple technology.
-  </p>
+  <div class="card shadow-sm p-4 rounded-4 mb-4">
+    <h4 class="fw-bold text-info">🛠️ Tech Stack</h4>
+    <ul class="mt-3">
+      <li><strong>HTML, CSS, Bootstrap</strong> for UI</li>
+      <li><strong>JavaScript ES Modules</strong> for logic</li>
+      <li><strong>Machine Learning Decision Tree</strong> (optimized JSON model)</li>
+      <li><strong>Rule-Based Medical Engine</strong></li>
+      <li>JSON datasets (Symptoms, Diseases, Precautions, Severity)</li>
+    </ul>
+  </div>
 
-  <h4 class="fw-bold mt-4">Built For</h4>
-  <p>PKP Mumbai Hackathon 2025 – Healthcare & MedTech Challenge</p>
+  <div class="card shadow-sm p-4 rounded-4">
+    <h4 class="fw-bold text-danger">👥 Team Members</h4>
+    <p class="text-muted">Developed as part of PKP Mumbai Hackathon 2025</p>
+
+    <ul class="mt-3">
+      <li><strong>Venkatesh Nilelu</strong> </li>
+            <li><strong>tanvi kelzerkar</strong> </li>
+      <li><strong>ganraj longadge</strong> </li>
+    </ul>
+  </div>
 
 </div>
 
@@ -56,4 +89,3 @@
 
 </body>
 </html>
-
