@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Aarogya Sahayak – Diagnosis</title>
+
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+
+<!-- NAVBAR -->
+<nav class="navbar navbar-expand-lg bg-white shadow-sm">
+  <div class="container">
+    <a class="navbar-brand fw-bold text-primary" href="index.html">🩺 Aarogya Sahayak</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navBarMenu">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navBarMenu">
+      <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+        <li class="nav-item"><a class="nav-link active" href="index.html">Diagnosis</a></li>
+        <li class="nav-item"><a class="nav-link" href="costs.html">Diagnostic Costs</a></li>
+        <li class="nav-item"><a class="nav-link" href="centers.html">Health Centers</a></li>
+        <li class="nav-item"><a class="nav-link" href="firstaid.html">First Aid</a></li>
+        <li class="nav-item"><a class="nav-link" href="history.html">History</a></li>
+        <li class="nav-item"><a class="nav-link" href="about.html">About</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+<div class="container py-5">
+  <h2 class="fw-bold text-primary mb-4">Patient Diagnosis Form</h2>
+
+  <div class="card p-4 shadow-sm rounded-4">
+    <form id="diagnosisForm">
+
+      <div class="row mb-3">
+        <div class="col-md-6">
+          <label class="form-label">Full Name *</label>
+          <input type="text" class="form-control" id="name" required />
+        </div>
+
+        <div class="col-md-3">
+          <label class="form-label">Age *</label>
+          <input type="number" class="form-control" id="age" required />
+        </div>
+
+        <div class="col-md-3">
+          <label class="form-label">Sex *</label>
+          <select id="sex" class="form-select" required>
+            <option value="">Select</option>
+            <option>Male</option>
+            <option>Female</option>
+            <option>Other</option>
+          </select>
+        </div>
+      </div>
+
+      <div class="row mb-3">
+        <div class="col-md-4">
+          <label class="form-label">Weight (kg)</label>
+          <input type="number" class="form-control" id="weight" />
+        </div>
+
+        <div class="col-md-8">
+          <label class="form-label">Allergies</label>
+          <input type="text" class="form-control" id="allergies" />
+        </div>
+      </div>
+
+      <label class="form-label fw-semibold">Describe Your Symptoms *</label>
+      <textarea id="symptoms" class="form-control mb-3" rows="3" required></textarea>
+
+      <label class="form-label fw-semibold">Common Symptoms</label>
+      <div class="mb-3">
+        <div class="form-check form-check-inline"><input class="form-check-input symptom-checkbox" type="checkbox" value="fever"> Fever</div>
+        <div class="form-check form-check-inline"><input class="form-check-input symptom-checkbox" type="checkbox" value="cough"> Cough</div>
+        <div class="form-check form-check-inline"><input class="form-check-input symptom-checkbox" type="checkbox" value="headache"> Headache</div>
+        <div class="form-check form-check-inline"><input class="form-check-input symptom-checkbox" type="checkbox" value="body pain"> Body Pain</div>
+      </div>
+
+      <button class="btn btn-primary" type="submit">Generate Diagnosis</button>
+      <button class="btn btn-secondary ms-2" type="reset">Clear</button>
+
+    </form>
+  </div>
+
+  <div id="resultBox" class="card p-4 shadow-sm rounded-4 mt-4 d-none">
+    <h4 class="text-primary fw-bold">Diagnosis Result</h4>
+    <p id="resultText"></p>
+  </div>
+
+</div>
+
+<script src="js/script.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Primary Health Center - Village A",
+    "type": "PHC",
+    "services": ["BP Check", "Sugar Test", "Basic Diagnosis"]
+  },
+  {
+    "name": "Community Health Center - Village B",
+    "type": "CHC",
+    "services": ["Blood Test", "Fever Clinic", "Vaccination"]
+  },
+  {
+    "name": "District Hospital",
+    "type": "Government Hospital",
+    "services": ["X-Ray", "ECG", "Lab Tests"]
+  }
+]

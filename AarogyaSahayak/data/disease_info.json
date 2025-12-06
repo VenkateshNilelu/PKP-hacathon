@@ -1,0 +1,464 @@
+{
+  "Fungal infection": {
+    "summary": "Fungal infections are caused by fungi invading the skin or tissues.",
+    "description": "Fungal infections occur when harmful fungi invade the body and begin to grow. They can affect the skin, nails, lungs, or internal organs. Common symptoms include itching, redness, rashes, and peeling of the affected skin. In severe cases, fungal infections can cause pain and swelling. Proper hygiene and antifungal medications are essential for treatment.",
+    "precautions": [
+      "Maintain proper hygiene",
+      "Keep affected area dry",
+      "Use antifungal cream",
+      "Avoid sharing personal items"
+    ]
+  },
+
+  "Allergy": {
+    "summary": "Allergy occurs when the immune system reacts excessively to harmless substances.",
+    "description": "Allergies arise when the immune system identifies a normally harmless substance as a threat. Symptoms can include sneezing, itching, swelling, rashes, or breathing difficulties. Common allergens include dust, pollen, food, and insect bites. Management requires avoiding triggers and using antihistamines or prescribed allergy medication.",
+    "precautions": [
+      "Avoid known allergens",
+      "Use antihistamines",
+      "Keep environment clean",
+      "Wear masks during dust exposure"
+    ]
+  },
+
+  "Chicken pox": {
+    "summary": "Chickenpox is a viral infection that causes itchy blisters and fever.",
+    "description": "Chickenpox is caused by the varicella-zoster virus. It spreads easily through droplets or contact. Symptoms include fever, itchy blisters, fatigue, and headache. The blisters form crusts within 7–10 days. Rest, hydration, and anti-itch creams help relieve symptoms. Vaccination prevents the disease.",
+    "precautions": [
+      "Avoid scratching blisters",
+      "Use calamine lotion",
+      "Get adequate rest",
+      "Isolate to prevent spread"
+    ]
+  },
+
+  "Drug Reaction": {
+    "summary": "Drug reactions are adverse responses to medications.",
+    "description": "A drug reaction occurs when the body reacts negatively to a medication. Symptoms vary widely and can include rashes, fever, nausea, swelling, and breathing problems. Severe reactions may require emergency treatment. Identifying and avoiding the triggering medication is essential.",
+    "precautions": [
+      "Stop taking suspected drug",
+      "Consult a doctor immediately",
+      "Avoid self-medication",
+      "Inform healthcare providers about past reactions"
+    ]
+  },
+
+  "Hypothyroidism": {
+    "summary": "Hypothyroidism occurs when the thyroid gland does not produce enough hormones.",
+    "description": "Hypothyroidism slows down metabolism due to low thyroid hormone levels. Common symptoms include fatigue, weight gain, hair fall, cold intolerance, constipation, and dry skin. It is usually treated with thyroid hormone replacement therapy.",
+    "precautions": [
+      "Take thyroid medication regularly",
+      "Eat iodine-rich foods",
+      "Exercise regularly",
+      "Avoid soy-heavy foods"
+    ]
+  }
+,
+  "Diabetes": {
+    "summary": "Diabetes is a metabolic disorder characterized by high blood sugar levels.",
+    "description": "Diabetes occurs when the body either does not produce enough insulin or cannot effectively use the insulin it produces. Symptoms include excessive thirst, frequent urination, fatigue, weight loss, and blurred vision. Long-term complications may affect the heart, kidneys, eyes, and nerves. Proper diet, exercise, and medication are essential for management.",
+    "precautions": [
+      "Monitor blood sugar regularly",
+      "Follow a diabetic-friendly diet",
+      "Exercise routinely",
+      "Take prescribed medications"
+    ]
+  },
+
+  "Hypertension": {
+    "summary": "Hypertension is high blood pressure that increases the risk of heart disease.",
+    "description": "Hypertension occurs when blood pressure persistently exceeds normal levels. Symptoms may include headaches, dizziness, chest pain, and shortness of breath, but often it has no clear symptoms. Lifestyle changes and medications help control blood pressure and prevent complications such as stroke or heart attack.",
+    "precautions": [
+      "Reduce salt intake",
+      "Exercise regularly",
+      "Avoid stress",
+      "Take BP medications on time"
+    ]
+  },
+
+  "Migraine": {
+    "summary": "Migraine is a severe headache disorder often accompanied by nausea and sensitivity to light.",
+    "description": "Migraine headaches cause throbbing pain, often on one side of the head. Symptoms include nausea, vomiting, visual disturbances, and sensitivity to light and sound. Triggers vary and may include stress, hormonal changes, certain foods, or sleep disturbances.",
+    "precautions": [
+      "Avoid migraine triggers",
+      "Use prescribed pain relief",
+      "Rest in a dark quiet room",
+      "Stay hydrated"
+    ]
+  },
+
+  "Osteoarthritis": {
+    "summary": "Osteoarthritis is a degenerative joint disease causing pain and stiffness.",
+    "description": "Osteoarthritis occurs when cartilage in the joints breaks down. It commonly affects the knees, hips, spine, and hands. Symptoms include joint pain, swelling, stiffness, and reduced mobility. Weight control and physiotherapy improve symptoms.",
+    "precautions": [
+      "Exercise regularly",
+      "Maintain healthy weight",
+      "Avoid heavy lifting",
+      "Use joint support tools if needed"
+    ]
+  },
+
+  "Arthritis": {
+    "summary": "Arthritis refers to inflammation of joints leading to pain and stiffness.",
+    "description": "Arthritis causes swelling and tenderness in the joints. It may be due to autoimmune conditions, infections, or degeneration. Symptoms include pain, warmth, swelling, and stiffness in the affected joints.",
+    "precautions": [
+      "Do light joint exercises",
+      "Apply warm compress",
+      "Avoid strain on joints",
+      "Take anti-inflammatory medication"
+    ]
+  },
+
+  "Dengue": {
+    "summary": "DDengue is a mosquito-borne viral infection causing fever and joint pain.",
+    "description": "Dengue is caused by the dengue virus transmitted through Aedes mosquitoes. Symptoms include high fever, severe headache, joint and muscle pain, vomiting, rash, and fatigue. Severe dengue can cause bleeding and shock. Hydration and supportive care are essential.",
+    "precautions": [
+      "Use mosquito repellent",
+      "Avoid standing water",
+      "Stay hydrated",
+      "Seek care if bleeding occurs"
+    ]
+  },
+
+  "Malaria": {
+    "summary": "Malaria is a parasitic infection transmitted through mosquito bites.",
+    "description": "Malaria is caused by Plasmodium parasites transmitted by Anopheles mosquitoes. Symptoms include fever, chills, sweating, vomiting, and body aches. Severe malaria can be life-threatening. Early diagnosis and antimalarial drugs are critical.",
+    "precautions": [
+      "Use mosquito nets",
+      "Take antimalarial drugs",
+      "Avoid mosquito exposure",
+      "Seek treatment quickly"
+    ]
+  }
+,
+  "Typhoid": {
+    "summary": "Typhoid is a bacterial infection causing prolonged fever and abdominal discomfort.",
+    "description": "Typhoid fever is caused by Salmonella typhi bacteria. It spreads through contaminated food or water. Common symptoms include high fever, abdominal pain, headache, diarrhea or constipation, and fatigue. Early treatment with antibiotics is crucial to prevent complications.",
+    "precautions": [
+      "Drink clean water",
+      "Maintain food hygiene",
+      "Complete antibiotic course",
+      "Avoid street food"
+    ]
+  },
+
+  "Pneumonia": {
+    "summary": "Pneumonia is a lung infection causing breathing difficulty and fever.",
+    "description": "Pneumonia occurs when lung air sacs fill with fluid or pus. It may be caused by bacteria, viruses, or fungi. Symptoms include fever, chills, cough with phlegm, chest pain, and shortness of breath. It can be severe in elderly or immunocompromised individuals.",
+    "precautions": [
+      "Complete antibiotics",
+      "Drink warm fluids",
+      "Take adequate rest",
+      "Monitor breathing problems"
+    ]
+  },
+
+  "COVID": {
+    "summary": "COVID-19 is a viral respiratory illness caused by SARS-CoV-2.",
+    "description": "COVID-19 affects the respiratory system and can range from mild symptoms to severe pneumonia. Common symptoms include fever, cough, fatigue, loss of taste or smell, and breathing difficulty. Prevention focuses on vaccination, masks, and hygiene.",
+    "precautions": [
+      "Wear a mask",
+      "Maintain distance",
+      "Stay hydrated",
+      "Seek care if breathing worsens"
+    ]
+  },
+
+  "Gastroenteritis": {
+    "summary": "Gastroenteritis is inflammation of the stomach and intestines causing diarrhea and vomiting.",
+    "description": "Gastroenteritis is commonly caused by viruses, bacteria, or contaminated food. Symptoms include vomiting, diarrhea, abdominal pain, dehydration, and weakness. Treatment involves hydration and rest.",
+    "precautions": [
+      "Drink ORS",
+      "Avoid oily food",
+      "Maintain hygiene",
+      "Eat light meals"
+    ]
+  },
+
+  "Acidity": {
+    "summary": "Acidity causes burning sensation in the chest and throat.",
+    "description": "Acidity occurs when excess acid forms in the stomach. Symptoms include heartburn, nausea, bloating, and sour taste in the mouth. Lifestyle changes and antacids provide relief.",
+    "precautions": [
+      "Avoid spicy foods",
+      "Eat small frequent meals",
+      "Avoid lying down after meals",
+      "Drink plenty of water"
+    ]
+  },
+
+  "Peptic Ulcer": {
+    "summary": "Peptic ulcers are open sores in the stomach or intestine lining.",
+    "description": "Peptic ulcers develop when stomach acid damages the lining of the digestive tract. Symptoms include burning stomach pain, bloating, heartburn, and intolerance to fatty foods.",
+    "precautions": [
+      "Avoid NSAIDs",
+      "Reduce stress",
+      "Avoid alcohol",
+      "Eat a balanced diet"
+    ]
+  },
+
+  "Food Poisoning": {
+    "summary": "Food poisoning results from eating contaminated food.",
+    "description": "Food poisoning is caused by bacteria, viruses, or toxins in food. Symptoms include vomiting, diarrhea, fever, stomach cramps, and dehydration. Treatment involves rest and hydration.",
+    "precautions": [
+      "Avoid unsafe food",
+      "Stay hydrated",
+      "Eat bland foods",
+      "Maintain kitchen hygiene"
+    ]
+  },
+
+  "Constipation": {
+    "summary": "Constipation is difficulty in passing stools or infrequent bowel movement.",
+    "description": "Constipation occurs when digestion slows and stool becomes hard and dry. Symptoms include stomach discomfort, bloating, and straining while passing stools.",
+    "precautions": [
+      "Eat fiber-rich foods",
+      "Drink more water",
+      "Exercise regularly",
+      "Avoid processed foods"
+    ]
+  }
+,
+  "Gastroesophageal Reflux": {
+    "summary": "GERD causes acid reflux resulting in chest discomfort and heartburn.",
+    "description": "Gastroesophageal Reflux Disease (GERD) occurs when stomach acid flows back into the food pipe. It causes burning chest pain, sour taste, difficulty swallowing, and chronic cough. Lifestyle changes and antacids help reduce symptoms.",
+    "precautions": [
+      "Avoid acidic foods",
+      "Maintain healthy weight",
+      "Avoid lying down after meals",
+      "Take prescribed medications"
+    ]
+  },
+
+  "Urinary Tract Infection": {
+    "summary": "UTI is an infection in the urinary tract causing painful urination.",
+    "description": "UTIs are caused by bacterial infections in the bladder or urinary tract. Symptoms include burning during urination, frequent urge to urinate, cloudy urine, and pelvic pain.",
+    "precautions": [
+      "Drink plenty of water",
+      "Maintain hygiene",
+      "Avoid holding urine",
+      "Complete antibiotic course"
+    ]
+  },
+
+  "Kidney Infection": {
+    "summary": "Kidney infection is a serious UTI spreading to the kidneys.",
+    "description": "Kidney infections occur when bacteria from the bladder travel to the kidneys. Symptoms include flank pain, fever, chills, vomiting, and painful urination. Immediate treatment is required to avoid complications.",
+    "precautions": [
+      "Seek medical care",
+      "Stay hydrated",
+      "Complete medications",
+      "Monitor symptoms"
+    ]
+  },
+
+  "Heart Attack": {
+    "summary": "Heart attack occurs when blood flow to the heart is blocked.",
+    "description": "A heart attack happens when a coronary artery becomes blocked, depriving heart muscles of oxygen. Symptoms include chest pain, shortness of breath, sweating, nausea, and left arm pain. This is a medical emergency.",
+    "precautions": [
+      "Seek emergency care",
+      "Avoid exertion",
+      "Take prescribed medicines",
+      "Follow cardiac diet"
+    ]
+  },
+
+  "Anemia": {
+    "summary": "Anemia occurs when the body lacks healthy red blood cells.",
+    "description": "Anemia leads to fatigue, weakness, pale skin, dizziness, and shortness of breath. It may be caused by iron deficiency, vitamin deficiency, or chronic illness. Treatment varies depending on the cause.",
+    "precautions": [
+      "Eat iron-rich foods",
+      "Take supplements",
+      "Avoid tea/coffee after meals",
+      "Treat underlying cause"
+    ]
+  },
+
+  "Depression": {
+    "summary": "Depression is a mental health disorder affecting mood and behavior.",
+    "description": "Depression causes persistent sadness, loss of interest, fatigue, changes in sleep or appetite, and difficulty concentrating. Severe cases may include suicidal thoughts. Therapy and medication help in treatment.",
+    "precautions": [
+      "Seek counseling",
+      "Exercise regularly",
+      "Avoid alcohol",
+      "Take medications as prescribed"
+    ]
+  },
+
+  "Bipolar Disorder": {
+    "summary": "Bipolar disorder causes extreme mood swings between mania and depression.",
+    "description": "Bipolar disorder features periods of elevated mood (mania) and low mood (depression). Symptoms include overactivity, rapid speech, impulsive behavior, followed by fatigue, sadness, and low motivation.",
+    "precautions": [
+      "Follow medication schedule",
+      "Sleep regularly",
+      "Avoid stress",
+      "Seek mental health support"
+    ]
+  }
+,
+  "Tuberculosis": {
+    "summary": "Tuberculosis (TB) is a bacterial infection primarily affecting the lungs.",
+    "description": "TB is caused by Mycobacterium tuberculosis. It spreads through airborne droplets when an infected person coughs or sneezes. Symptoms include chronic cough, weight loss, night sweats, fever, and fatigue. Treatment requires a long-term course of antibiotics.",
+    "precautions": [
+      "Cover mouth when coughing",
+      "Take full TB medication course",
+      "Ensure ventilation",
+      "Avoid smoking"
+    ]
+  },
+
+  "Cancer": {
+    "summary": "Cancer is the uncontrolled growth of abnormal cells in the body.",
+    "description": "Cancer develops when cells begin to grow and divide uncontrollably. Symptoms vary depending on type but may include lumps, fatigue, weight loss, pain, or bleeding. Early diagnosis significantly improves outcomes.",
+    "precautions": [
+      "Avoid tobacco",
+      "Regular health screenings",
+      "Eat a healthy diet",
+      "Seek timely treatment"
+    ]
+  },
+
+  "Hepatitis A": {
+    "summary": "Hepatitis A is a viral infection affecting the liver.",
+    "description": "Hepatitis A spreads through contaminated food or water. Symptoms include jaundice, fatigue, stomach pain, fever, nausea, and dark urine. Most cases resolve with rest and hydration, but hygiene is critical to prevent spread.",
+    "precautions": [
+      "Drink clean water",
+      "Maintain sanitation",
+      "Avoid raw foods",
+      "Get vaccinated"
+    ]
+  },
+
+  "Hepatitis B": {
+    "summary": "Hepatitis B is a viral liver infection transmitted via blood or body fluids.",
+    "description": "Hepatitis B affects liver function and may become chronic. Symptoms include jaundice, abdominal pain, dark urine, fatigue, and nausea. Vaccination prevents the disease.",
+    "precautions": [
+      "Avoid sharing needles",
+      "Practice safe sex",
+      "Get vaccinated",
+      "Regular liver check-ups"
+    ]
+  },
+
+  "Hepatitis C": {
+    "summary": "Hepatitis C is a viral liver infection that may become chronic.",
+    "description": "Hepatitis C spreads through infected blood. Many patients have no symptoms until liver damage occurs. Symptoms include fatigue, jaundice, swelling, and abdominal pain.",
+    "precautions": [
+      "Avoid contaminated needles",
+      "Regular screening",
+      "Avoid alcohol",
+      "Follow antiviral treatment"
+    ]
+  },
+
+  "Chikungunya": {
+    "summary": "Chikungunya is a mosquito-borne viral disease causing severe joint pain.",
+    "description": "Chikungunya is transmitted by Aedes mosquitoes. Symptoms include sudden fever, severe joint pain, rash, muscle pain, and fatigue. Recovery may take weeks or months.",
+    "precautions": [
+      "Avoid mosquito bites",
+      "Use repellents",
+      "Take rest",
+      "Stay hydrated"
+    ]
+  },
+
+  "Common Cold": {
+    "summary": "Common cold is a viral infection of the upper respiratory tract.",
+    "description": "The common cold is caused by various viruses such as rhinoviruses. Symptoms include runny nose, sneezing, congestion, mild fever, and sore throat. It usually resolves within a week.",
+    "precautions": [
+      "Stay hydrated",
+      "Rest well",
+      "Avoid cold drinks",
+      "Use warm steam inhalation"
+    ]
+  }
+,
+  "Psoriasis": {
+    "summary": "Psoriasis is a chronic autoimmune skin condition causing red, scaly patches.",
+    "description": "Psoriasis accelerates the skin cell growth cycle, causing thick, red, scaly patches on the skin. It can appear on elbows, scalp, knees, or other areas. Symptoms may worsen due to stress, infections, or cold weather.",
+    "precautions": [
+      "Moisturize skin",
+      "Avoid triggers like stress",
+      "Use prescribed creams",
+      "Avoid skin injury"
+    ]
+  },
+
+  "Panic Disorder": {
+    "summary": "Panic disorder causes sudden repeated panic attacks.",
+    "description": "Panic disorder involves sudden episodes of intense fear, chest pain, rapid heartbeat, shortness of breath, and dizziness. Attacks may occur unexpectedly and can interfere with daily life.",
+    "precautions": [
+      "Practice breathing exercises",
+      "Avoid caffeine",
+      "Seek therapy",
+      "Use prescribed medication"
+    ]
+  },
+
+  "Acne": {
+    "summary": "Acne is a skin condition causing pimples due to clogged pores.",
+    "description": "Acne occurs when hair follicles become clogged with oil and dead skin cells. Symptoms include pimples, blackheads, whiteheads, and sometimes painful cysts.",
+    "precautions": [
+      "Wash face regularly",
+      "Avoid oily foods",
+      "Do not squeeze pimples",
+      "Use dermatologist-recommended products"
+    ]
+  },
+
+  "Bronchitis": {
+    "summary": "Bronchitis is inflammation of the bronchial tubes causing cough and mucus.",
+    "description": "Bronchitis leads to swelling of airway tubes and can be acute or chronic. Symptoms include persistent cough, chest discomfort, fatigue, fever, and mucus production.",
+    "precautions": [
+      "Avoid smoking",
+      "Use warm steam",
+      "Stay hydrated",
+      "Take rest"
+    ]
+  },
+
+  "Jaundice": {
+    "summary": "Jaundice causes yellowing of skin due to high bilirubin levels.",
+    "description": "Jaundice is a sign of liver dysfunction. Symptoms include yellow skin, yellow eyes, dark urine, pale stool, fatigue, and nausea. Treatment depends on the underlying cause.",
+    "precautions": [
+      "Avoid alcohol",
+      "Drink clean water",
+      "Follow liver-safe diet",
+      "Take doctor-advised medicines"
+    ]
+  }
+,
+  "Appendicitis": {
+    "summary": "Appendicitis is inflammation of the appendix causing severe abdominal pain.",
+    "description": "Appendicitis occurs when the appendix becomes blocked and inflamed. Symptoms include sharp pain in the lower right abdomen, fever, nausea, vomiting, and loss of appetite. Immediate surgery is often required to prevent rupture.",
+    "precautions": [
+      "Seek emergency care",
+      "Avoid eating solid food",
+      "Do not take laxatives",
+      "Follow doctor’s instructions"
+    ]
+  },
+
+  "Sinusitis": {
+    "summary": "Sinusitis is inflammation of sinus cavities causing congestion and headache.",
+    "description": "Sinusitis occurs when nasal passages become inflamed due to infection or allergies. Symptoms include headache, facial pain, nasal congestion, cough, and fever.",
+    "precautions": [
+      "Inhale steam",
+      "Avoid cold air",
+      "Use nasal saline sprays",
+      "Take decongestants"
+    ]
+  },
+
+  "Dehydration": {
+    "summary": "Dehydration occurs when the body loses more fluids than it takes in.",
+    "description": "Dehydration leads to thirst, dry mouth, dark urine, fatigue, dizziness, and rapid heartbeat. Severe dehydration is dangerous, especially in children and elderly people.",
+    "precautions": [
+      "Drink ORS",
+      "Avoid heat exposure",
+      "Sip water regularly",
+      "Seek help if symptoms worsen"
+    ]
+  }
+}
+

@@ -1,0 +1,30 @@
+body {
+  background-color: #f5f8ff;
+}
+
+.navbar-brand {
+  font-size: 1.4rem;
+}
+
+.nav-link:hover, .nav-link.active {
+  color: #2d6cdf !important;
+  font-weight: 600;
+}
+
+.card {
+  border-radius: 15px;
+}
+
+.btn-primary {
+  background-color: #2d6cdf;
+  border: none;
+}
+
+.btn-primary:hover {
+  background-color: #1f55b8;
+}
+
+.table-primary {
+  background-color: #dbe7ff !important;
+}
+

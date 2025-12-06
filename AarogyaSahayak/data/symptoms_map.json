@@ -1,0 +1,134 @@
+{
+  "itching": [
+    "Fungal infection",
+    "Allergy",
+    "Chicken pox",
+    "Drug Reaction"
+  ],
+  "skin_rash": [
+    "Fungal infection",
+    "Allergy",
+    "Chicken pox",
+    "Drug Reaction",
+    "Psoriasis"
+  ],
+  "nodal_skin_eruptions": [
+    "Fungal infection",
+    "Allergy",
+    "Chicken pox",
+    "Drug Reaction"
+  ],
+  "continuous_sneezing": [
+    "Allergy"
+  ],
+  "shivering": [
+    "Hypothyroidism",
+    "Common Cold",
+    "Pneumonia",
+    "Malaria",
+    "Typhoid",
+    "Dengue",
+    "COVID"
+  ],
+  "chills": [
+    "Hypothyroidism",
+    "Pneumonia",
+    "Malaria",
+    "Typhoid",
+    "Dengue",
+    "COVID"
+  ],
+  "joint_pain": [
+    "Hypothyroidism",
+    "Osteoarthritis",
+    "Arthritis",
+    "Dengue",
+    "Chikungunya",
+    "Malaria"
+  ],
+  "stomach_pain": [
+    "Gastroenteritis",
+    "Peptic Ulcer",
+    "Acidity",
+    "Constipation",
+    "Food Poisoning",
+    "Typhoid",
+    "Hepatitis A",
+    "Hepatitis B",
+    "Hepatitis C"
+  ],
+  "acidity": [
+    "Acidity",
+    "Peptic Ulcer",
+    "Gastroesophageal Reflux"
+  ],
+  "ulcers_on_tongue": [
+    "Acidity",
+    "Gastroenteritis",
+    "Peptic Ulcer"
+  ],
+  "muscle_wasting": [
+    "Hypothyroidism"
+  ],
+  "vomiting": [
+    "Food Poisoning",
+    "Gastroenteritis",
+    "Dengue",
+    "Malaria",
+    "Pneumonia",
+    "Typhoid",
+    "Migraine"
+  ],
+  "burning_micturition": [
+    "Urinary Tract Infection",
+    "Kidney Infection"
+  ],
+  "spotting_ urination": [
+    "Urinary Tract Infection",
+    "Kidney Infection"
+  ],
+  "fatigue": [
+    "Hypothyroidism",
+    "Diabetes",
+    "Hypertension",
+    "Heart Attack",
+    "Dengue",
+    "COVID",
+    "Anemia"
+  ],
+  "weight_gain": [
+    "Hypothyroidism"
+  ],
+  "anxiety": [
+    "Hypertension",
+    "Heart Attack",
+    "Migraine",
+    "Panic Disorder"
+  ],
+  "cold_hands_and_feets": [
+    "Hypothyroidism",
+    "Anemia"
+  ],
+  "mood_swings": [
+    "Hypothyroidism",
+    "Depression",
+    "Bipolar Disorder"
+  ],
+  "weight_loss": [
+    "Diabetes",
+    "Gastroenteritis",
+    "Tuberculosis",
+    "Cancer"
+  ],
+  "restlessness": [
+    "Hypertension",
+    "Anxiety",
+    "Panic Disorder"
+  ],
+  "lethargy": [
+    "Diabetes",
+    "Hypothyroidism",
+    "Anemia",
+    "Dengue"
+  ]
+}

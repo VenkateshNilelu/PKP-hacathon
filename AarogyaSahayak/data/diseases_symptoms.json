@@ -1,0 +1,283 @@
+{
+  "Fungal infection": [
+    "itching",
+    "skin_rash",
+    "nodal_skin_eruptions"
+  ],
+  "Allergy": [
+    "itching",
+    "skin_rash",
+    "continuous_sneezing",
+    "shivering",
+    "fatigue"
+  ],
+  "Chicken pox": [
+    "itching",
+    "skin_rash",
+    "fatigue",
+    "high_fever",
+    "headache",
+    "loss_of_appetite"
+  ],
+  "Drug Reaction": [
+    "itching",
+    "skin_rash",
+    "vomiting",
+    "fatigue",
+    "lethargy"
+  ],
+  "Hypothyroidism": [
+    "fatigue",
+    "weight_gain",
+    "cold_hands_and_feets",
+    "lethargy",
+    "dizziness"
+  ],
+  "Diabetes": [
+    "fatigue",
+    "weight_loss",
+    "vomiting",
+    "lethargy",
+    "increased_appetite"
+  ],
+  "Hypertension": [
+    "headache",
+    "chest_pain",
+    "fatigue",
+    "anxiety",
+    "shortness_of_breath"
+  ],
+  "Migraine": [
+    "headache",
+    "vomiting",
+    "nausea",
+    "fatigue",
+    "blurred_vision",
+    "irritability"
+  ],
+  "Osteoarthritis": [
+    "joint_pain",
+    "swelling_joints",
+    "movement_stiffness",
+    "pain_during_walk"
+  ],
+  "Arthritis": [
+    "joint_pain",
+    "swelling",
+    "redness_of_joints",
+    "stiff_neck",
+    "painful_walking"
+  ],
+  "Dengue": [
+    "high_fever",
+    "vomiting",
+    "fatigue",
+    "joint_pain",
+    "rash",
+    "muscle_pain",
+    "bleeding"
+  ],
+  "Malaria": [
+    "high_fever",
+    "shivering",
+    "vomiting",
+    "headache",
+    "sweating",
+    "body_pain"
+  ],
+  "Typhoid": [
+    "high_fever",
+    "vomiting",
+    "fatigue",
+    "abdominal_pain",
+    "constipation",
+    "diarrhoea"
+  ],
+  "Pneumonia": [
+    "cough",
+    "fever",
+    "chest_pain",
+    "shortness_of_breath",
+    "fatigue"
+  ],
+  "COVID": [
+    "fever",
+    "cough",
+    "fatigue",
+    "loss_of_taste",
+    "breathing_difficulty"
+  ],
+  "Gastroenteritis": [
+    "vomiting",
+    "diarrhoea",
+    "abdominal_pain",
+    "dehydration",
+    "fever"
+  ],
+  "Acidity": [
+    "acidity",
+    "stomach_pain",
+    "ulcers_on_tongue",
+    "vomiting",
+    "loss_of_appetite"
+  ],
+  "Peptic Ulcer": [
+    "stomach_pain",
+    "acidity",
+    "vomiting",
+    "bloating",
+    "burning_in_stomach"
+  ],
+  "Food Poisoning": [
+    "vomiting",
+    "diarrhoea",
+    "fatigue",
+    "fever",
+    "stomach_pain"
+  ],
+  "Constipation": [
+    "constipation",
+    "stomach_pain",
+    "headache",
+    "abdominal_discomfort"
+  ],
+  "Gastroesophageal Reflux": [
+    "acidity",
+    "chest_pain",
+    "nausea",
+    "regurgitation",
+    "sour_taste"
+  ],
+  "Urinary Tract Infection": [
+    "burning_micturition",
+    "spotting_ urination",
+    "lower_abdominal_pain",
+    "fever"
+  ],
+  "Kidney Infection": [
+    "burning_micturition",
+    "vomiting",
+    "fever",
+    "flank_pain"
+  ],
+  "Heart Attack": [
+    "chest_pain",
+    "shortness_of_breath",
+    "fatigue",
+    "nausea",
+    "anxiety"
+  ],
+  "Anemia": [
+    "fatigue",
+    "cold_hands_and_feets",
+    "pale_skin",
+    "breathlessness",
+    "dizziness"
+  ],
+  "Depression": [
+    "mood_swings",
+    "fatigue",
+    "anxiety",
+    "loss_of_interest",
+    "insomnia"
+  ],
+  "Bipolar Disorder": [
+    "mood_swings",
+    "irritability",
+    "restlessness",
+    "fatigue",
+    "sleep_disturbance"
+  ],
+  "Tuberculosis": [
+    "cough",
+    "fatigue",
+    "weight_loss",
+    "night_sweats",
+    "fever"
+  ],
+  "Cancer": [
+    "weight_loss",
+    "fatigue",
+    "pain",
+    "bleeding",
+    "persistent_cough"
+  ],
+  "Hepatitis A": [
+    "jaundice",
+    "fatigue",
+    "abdominal_pain",
+    "fever",
+    "dark_urine"
+  ],
+  "Hepatitis B": [
+    "jaundice",
+    "fatigue",
+    "abdominal_pain",
+    "vomiting"
+  ],
+  "Hepatitis C": [
+    "fatigue",
+    "abdominal_pain",
+    "swelling",
+    "jaundice"
+  ],
+  "Chikungunya": [
+    "joint_pain",
+    "rash",
+    "fatigue",
+    "fever"
+  ],
+  "Common Cold": [
+    "continuous_sneezing",
+    "cough",
+    "chills",
+    "fatigue"
+  ],
+  "Psoriasis": [
+    "skin_rash",
+    "itching",
+    "scaly_patches",
+    "redness"
+  ],
+  "Panic Disorder": [
+    "anxiety",
+    "restlessness",
+    "sweating",
+    "palpitations"
+  ],
+  "Acne": [
+    "skin_rash",
+    "pimples",
+    "blackheads"
+  ],
+  "Bronchitis": [
+    "cough",
+    "phlegm",
+    "fatigue",
+    "shortness_of_breath"
+  ],
+  "Jaundice": [
+    "jaundice",
+    "fatigue",
+    "yellow_skin",
+    "abdominal_pain"
+  ],
+  "Appendicitis": [
+    "abdominal_pain",
+    "vomiting",
+    "fever",
+    "loss_of_appetite"
+  ],
+  "Sinusitis": [
+    "headache",
+    "congestion",
+    "facial_pain",
+    "fever"
+  ],
+  "Dehydration": [
+    "thirst",
+    "dry_mouth",
+    "fatigue",
+    "dizziness"
+  ]
+}

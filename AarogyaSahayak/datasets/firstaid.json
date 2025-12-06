@@ -1,0 +1,7 @@
+{
+  "fever": "Give fluids, provide rest, check temperature every 4 hours.",
+  "snakebite": "Keep the patient calm, do NOT cut or suck the wound, rush to hospital.",
+  "burns": "Keep under cool running water for 20 minutes, do not apply toothpaste.",
+  "fracture": "Immobilize the limb, avoid movement, seek medical help.",
+  "diarrhea": "Give ORS after every loose motion, prevent dehydration."
+}

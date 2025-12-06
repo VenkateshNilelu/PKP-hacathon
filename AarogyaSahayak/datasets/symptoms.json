@@ -1,0 +1,18 @@
+{
+  "fever": {
+    "conditions": ["Viral fever", "Malaria", "Typhoid"],
+    "advice": "Drink ORS, rest, monitor temperature."
+  },
+  "cough": {
+    "conditions": ["Cold", "Bronchitis", "Tuberculosis"],
+    "advice": "Steam inhalation recommended."
+  },
+  "headache": {
+    "conditions": ["Migraine", "Stress headache", "Dehydration"],
+    "advice": "Drink water, rest in a dark room."
+  },
+  "body pain": {
+    "conditions": ["Fatigue", "Viral infection", "Muscle strain"],
+    "advice": "Rest and maintain hydration."
+  }
+}

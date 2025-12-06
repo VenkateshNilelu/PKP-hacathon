@@ -1,0 +1,7 @@
+{
+  "Blood Test (CBC)": { "rural": 80, "urban": 150 },
+  "X-Ray": { "rural": 200, "urban": 400 },
+  "ECG": { "rural": 150, "urban": 300 },
+  "Blood Sugar": { "rural": 50, "urban": 120 },
+  "Urine Test": { "rural": 40, "urban": 100 }
+}
